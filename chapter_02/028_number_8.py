@@ -1,0 +1,5 @@
+print(4+4)
+print(108-100)
+print(4*2)
+print(80/10)
+print(2**3)

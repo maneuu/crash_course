@@ -1,0 +1,2 @@
+message = 'Assim como a excelência não é um ato, mas um hábito, a programação também é uma arte que se aperfeiçoa com a prática constante. Cada linha de código é uma oportunidade de buscar a perfeição, de aprender com os erros e de criar algo que transcenda o tempo. A verdadeira sabedoria na programação está em entender que o conhecimento é um processo contínuo, e que a busca pela inovação é o que nos impulsiona a alcançar novos horizontes.'
+print(message)

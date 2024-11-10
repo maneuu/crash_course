@@ -1,0 +1,1 @@
+print('Milton Friedman once said "There\'s no such thing as a free lunch"')
