@@ -51,6 +51,7 @@ print(f"I'm sorry {guest_list.pop()}, but the party won't be happening as planne
 
 print(f"Just letting you know, {guest_list[0]}, that you’re still invited to the party!")
 print(f"Just letting you know, {guest_list[1]}, that you’re still invited to the party!", end="\n\n")
+print(guest_list)
 
 del guest_list[-1]
 del guest_list[-1]
